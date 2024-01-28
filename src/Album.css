@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+*{
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  background-color: #89A1EF;
+  color: black;
+
+}
+h1{
+  font-size: xx-large;
+  color: black;
+  font-weight: bolder;
+  
+}
+
+.searchBar{
+  font-family: "Inter", sans-serif;
+  font-size: larger;
+  width: 100%;
+  max-width: 700px;
+  padding: 10px 20px;
+  margin: 10px;
+  box-sizing: border-box;
+  border: none;
+  background-color: whitesmoke;
+  color: black;
+  outline: none;
+  border-radius: 60px;
+}
+
+.Album {
+  background-color: #89A1EF;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+
