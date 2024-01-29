@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alberto-the-Album-Finder/static/css/main.ada90f6a.css",
+    "main.js": "/Alberto-the-Album-Finder/static/js/main.ebe52f39.js",
+    "index.html": "/Alberto-the-Album-Finder/index.html",
+    "main.ada90f6a.css.map": "/Alberto-the-Album-Finder/static/css/main.ada90f6a.css.map",
+    "main.ebe52f39.js.map": "/Alberto-the-Album-Finder/static/js/main.ebe52f39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada90f6a.css",
+    "static/js/main.ebe52f39.js"
+  ]
+}
