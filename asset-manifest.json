@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AmileshN/Alberto-the-Album-Finder/static/css/main.ada90f6a.css",
-    "main.js": "/AmileshN/Alberto-the-Album-Finder/static/js/main.1cedb09e.js",
+    "main.js": "/AmileshN/Alberto-the-Album-Finder/static/js/main.f2a10b62.js",
     "index.html": "/AmileshN/Alberto-the-Album-Finder/index.html",
     "main.ada90f6a.css.map": "/AmileshN/Alberto-the-Album-Finder/static/css/main.ada90f6a.css.map",
-    "main.1cedb09e.js.map": "/AmileshN/Alberto-the-Album-Finder/static/js/main.1cedb09e.js.map"
+    "main.f2a10b62.js.map": "/AmileshN/Alberto-the-Album-Finder/static/js/main.f2a10b62.js.map"
   },
   "entrypoints": [
     "static/css/main.ada90f6a.css",
-    "static/js/main.1cedb09e.js"
+    "static/js/main.f2a10b62.js"
   ]
 }
