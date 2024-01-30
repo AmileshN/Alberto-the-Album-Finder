@@ -6,7 +6,8 @@ import { Card, CardHeader, CardBody, SimpleGrid,Image } from '@chakra-ui/react'
 import { Link } from 'react-router-dom';
 
 const CLIENT_ID = process.env.REACT_APP_CLIENT_ID; 
-const REDIRECT_URI = "http://localhost:3000/album/user"
+const REDIRECT_URI = "http://localhost:3000/user"
+// const REDIRECT_URI ="https://amileshn.github.io/Alberto-the-Album-Finder/#/user"
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize"
 const RESPONSE_TYPE = "token"
 const SCOPES = ["user-top-read","user-read-private","user-library-read"]
@@ -66,7 +67,7 @@ function User() {
   
   return (
     <ChakraProvider>
-        <Button><Link to="../album">Go Back</Link></Button>
+        <Button><Link to="../">Go Back</Link></Button>
         <Button onClick={login}>Log in</Button>
         {token != '' ?<Button onClick={getData}>Get Your Albums</Button> : " <- Log in first to access your saved albums" }
         <SimpleGrid spacing={10} columns={[2, null, 3]} >

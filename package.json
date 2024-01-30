@@ -1,7 +1,7 @@
 {
   "name": "project-jax",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://github.com/AmileshN/Alberto-the-Album-Finder",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.0",
