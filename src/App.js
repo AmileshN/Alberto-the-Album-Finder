@@ -5,7 +5,7 @@ function App(){
     return(
         <Router>
             <Routes>
-                <Route index path="/album" element={<Album/>} />
+                <Route exact path="/album" element={<Album/>} />
                 <Route path="/album/user" element={<User/>} />
             </Routes>
             
